@@ -11,4 +11,6 @@ class CpfGenerator{
         return NumGenerated.replace(/(\d{3})(\d{3})(\d{3})(\d{2})/, "$1.$2.$3-$4");
     }
 }
-console.log(CpfGenerator.geratePointing());
+
+console.log(CpfGenerator.geratePointing())
+console.log(CpfGenerator.gerateNumber())
