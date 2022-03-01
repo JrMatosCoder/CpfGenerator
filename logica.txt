@@ -1,0 +1,7 @@
+
+1 - gerar 11 números aleátorios de 0 a 9
+2 - adicionar pontuações
+3 - retornar o valor final
+
+o formato do cpf se baseia em
+--> 863.333.470-43 <--
